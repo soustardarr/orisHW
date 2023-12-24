@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAySMPYQb0VMue5pD3dliBWxINzKB27dbFOzuJT2NFstLAzqnggHp85pn3sGy1/1lxM/kuw9H+uhOHGLlC1YGQ==",
+  "success": true,
+  "projectFilePath": "/Users/ruslankozlov/git/орис дз/orisHW/googlehttp4/google - http_server/MyHttpServer/MyHttpServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruslankozlov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

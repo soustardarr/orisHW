@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{15066F99-91F6-40FB-B058-8FA9FFEEDA5F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpServerBattleNet/Program.cs">
+    <Files>
+      <File FileName="HttpServerBattleNet/Attribuets/ControllerAttribute.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Attribuets/GetAttribute.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Attribuets/HttpMethodAttribute.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Attribuets/PostAttribute.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Configuration/AppSettingsConfig.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Configuration/ServerConfiguration.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Controllers/AccountController.cs" Line="17" Column="32" />
+      <File FileName="HttpServerBattleNet/Handlers/ControllerHandler.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Handlers/Handler.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Handlers/StaticFileHandlers.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Model/Account.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Services/EmailSender/EmailSenderService.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Services/EmailSender/IEmailSenderService.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/static/404.html" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/static/index.html" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/appsettings.json" Line="6" Column="38" />
+      <File FileName="HttpServerBattleNet/HttpServer.cs" Line="1" Column="1" />
+      <File FileName="HttpServerBattleNet/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HttpServerBattleNet">
+            <Node name="HttpServerBattleNet">
+              <Node name="Attribuets" expanded="True" />
+              <Node name="Configuration" expanded="True" />
+              <Node name="Handlers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="EmailSender" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HttpServerBattleNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

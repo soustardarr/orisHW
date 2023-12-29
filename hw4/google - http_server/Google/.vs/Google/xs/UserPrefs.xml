@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5F3E8EA1-A6B0-4B09-AB1F-25B4FAFD2ED0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Google PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpServer.cs">
+    <Files>
+      <File FileName="static/index.html" />
+      <File FileName="Configuration/AppSettingsConfig.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="HttpServer.cs" Line="136" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Google" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

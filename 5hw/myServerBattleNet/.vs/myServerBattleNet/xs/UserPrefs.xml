@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{08AF3875-56EF-43F5-8545-44E1936298BD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myServerBattleNet" selected="True">
+            <Node name="myServerBattleNet" expanded="True">
+              <Node name="Attribuets" expanded="True" />
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Heandlers" expanded="True" />
+              <Node name="Service" expanded="True" />
+              <Node name="static" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myServerBattleNet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

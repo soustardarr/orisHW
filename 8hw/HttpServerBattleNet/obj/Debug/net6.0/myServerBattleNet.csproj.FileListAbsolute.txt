@@ -1,0 +1,84 @@
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/appsettings.json
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/404.html
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/apple-logo-black.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/eys.png
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/facebook-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/google-logo-color.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/logo.png
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/main-logo.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/playstation-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/steam-logo-black.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/switch-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/images/xbox-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/index.html
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/static/styles/style.css
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.deps.json
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.runtimeconfig.json
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.pdb
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/MailKit.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/MimeKit.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/Npgsql.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/System.Formats.Asn1.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.AssemblyReference.cache
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.AssemblyInfoInputs.cache
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.AssemblyInfo.cs
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.CoreCompileInputs.cache
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.CopyComplete
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/refint/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.pdb
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.genruntimeconfig.cache
+/Users/ruslankozlov/git/орис дз/orisHW/Account methods - battle net/HttpServerBattleNet/obj/Debug/net6.0/ref/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/appsettings.json
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/404.html
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/apple-logo-black.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/eys.png
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/facebook-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/google-logo-color.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/logo.png
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/main-logo.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/playstation-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/steam-logo-black.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/switch-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/images/xbox-logo-white.svg
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/index.html
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/static/styles/style.css
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.deps.json
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.runtimeconfig.json
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/myServerBattleNet.pdb
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/MailKit.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/MimeKit.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/Npgsql.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/System.Formats.Asn1.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.AssemblyReference.cache
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.AssemblyInfoInputs.cache
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.AssemblyInfo.cs
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.CoreCompileInputs.cache
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.csproj.CopyComplete
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/refint/myServerBattleNet.dll
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.pdb
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/myServerBattleNet.genruntimeconfig.cache
+/Users/ruslankozlov/git/орис дз/orisHW/8hw/HttpServerBattleNet/obj/Debug/net6.0/ref/myServerBattleNet.dll

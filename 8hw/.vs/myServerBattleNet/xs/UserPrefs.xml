@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{15066F99-91F6-40FB-B058-8FA9FFEEDA5F}|Default">
+  <MonoDevelop.Ide.ItemProperties.myServerBattleNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpServerBattleNet/Handlers/ControllerHandler.cs">
+    <Files>
+      <File FileName="HttpServerBattleNet/Attribuets/ControllerAttribute.cs" />
+      <File FileName="HttpServerBattleNet/Attribuets/GetAttribute.cs" />
+      <File FileName="HttpServerBattleNet/Attribuets/HttpMethodAttribute.cs" />
+      <File FileName="HttpServerBattleNet/Attribuets/PostAttribute.cs" />
+      <File FileName="HttpServerBattleNet/Configuration/AppSettingsConfig.cs" />
+      <File FileName="HttpServerBattleNet/Configuration/ServerConfiguration.cs" />
+      <File FileName="HttpServerBattleNet/Controllers/AccountController.cs" />
+      <File FileName="HttpServerBattleNet/Handlers/ControllerHandler.cs" Line="29" Column="1" />
+      <File FileName="HttpServerBattleNet/Handlers/Handler.cs" />
+      <File FileName="HttpServerBattleNet/Handlers/StaticFileHandlers.cs" />
+      <File FileName="HttpServerBattleNet/Model/Account.cs" />
+      <File FileName="HttpServerBattleNet/Services/EmailSender/EmailSenderService.cs" />
+      <File FileName="HttpServerBattleNet/Services/EmailSender/IEmailSenderService.cs" />
+      <File FileName="HttpServerBattleNet/static/404.html" />
+      <File FileName="HttpServerBattleNet/static/index.html" />
+      <File FileName="HttpServerBattleNet/appsettings.json" />
+      <File FileName="HttpServerBattleNet/HttpServer.cs" />
+      <File FileName="HttpServerBattleNet/Program.cs" />
+      <File FileName="HttpServerBattleNet/tempOfExtensions/DictionaryExtensions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myServerBattleNet" selected="True">
+            <Node name="myServerBattleNet" expanded="True">
+              <Node name="Attribuets" expanded="True" />
+              <Node name="Handlers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
